@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on @plevort<br>Backend dev
+Currently working on [plevort](https://github.com/plevort)<br>Backend dev
 
 
 ## 🌐 Socials:
