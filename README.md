@@ -10,7 +10,7 @@ Currently working on [GGSearch](https://ggsearch.eu.org)<br>Backend dev
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GGLVXD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GGLVXD&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GGLVXD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GGLVXD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=200)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GGLVXD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
