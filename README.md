@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on [GGSearch](https://ggsearch.eu.org)<br>Backend dev
+Currently working on [Fryde](https://github.com/frydelv) & [FrydeFM](https://github.com/frydelv)<br>Backend dev
 
 
 ## 🌐 Socials:
