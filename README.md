@@ -13,9 +13,6 @@ Currently working on [Fryde](https://github.com/frydelv) & [FrydeFM](https://git
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GGLVXD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contribution Stats
-![](https://github-contribution-stats.vercel.app/api/?username=GGLVXD)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=GGLVXD&icon=1&color=12)](https://visitcount.itsvg.in)
 
