@@ -14,6 +14,7 @@ Currently working on [Fryde](https://github.com/frydelv) & [FrydeFM](https://git
 ![](https://github-profile-trophy.vercel.app/?username=GGLVXD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+![](https://komarev.com/ghpvc/?username=GGLVXD&color=green)
 [![](https://visitcount.itsvg.in/api?id=GGLVXD&icon=1&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
